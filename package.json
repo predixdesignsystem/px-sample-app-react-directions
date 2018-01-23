@@ -1,6 +1,5 @@
 {
-  "name": "px-sample-app-react",
-  "version": "0.0.1-alpha.1",
+  "name": "px-sample-app-react-directions",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
