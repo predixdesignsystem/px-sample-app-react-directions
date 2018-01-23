@@ -1,0 +1,8 @@
+.location-result {
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.location-result:hover {
+  background-color: #e2e8ed;
+}

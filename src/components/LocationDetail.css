@@ -1,0 +1,18 @@
+.location-detail {
+  display: block;
+  background-color: #121f26;
+  padding: 2rem;
+}
+
+.location-detail p {
+  margin: 0;
+}
+
+.location-detail-street {
+  font-size: 1.4rem;
+  color: #c5d1d8;
+}
+
+.location-detail-location {
+  color: #889aa5;
+}
